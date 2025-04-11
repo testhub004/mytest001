@@ -12,6 +12,9 @@ test
 ㅁㄴㅇㄻㅇㄻㄴㄹ ㅁㄴㅁㄴㅇㄻㄴㅇㄹ
 
 ASDFAFDADFS
+<<<<<<< HEAD
 
 
 ㅁㄴㅇㄻㄴㄹ
+=======
+>>>>>>> branch 'main' of https://github.com/testhub004/mytest001.git
