@@ -1,6 +1,6 @@
 testaaaaaa
 
-test
+test1111111111111111111111
 
 
 
@@ -12,9 +12,9 @@ test
 ㅁㄴㅇㄻㅇㄻㄴㄹ ㅁㄴㅁㄴㅇㄻㄴㅇㄹ
 
 ASDFAFDADFS
-<<<<<<< HEAD
+1111111111111111
 
 
 ㅁㄴㅇㄻㄴㄹ
-=======
->>>>>>> branch 'main' of https://github.com/testhub004/mytest001.git
+===================================
+111111111111
